@@ -14,18 +14,21 @@
         <entry key="app/src/main/res/drawable/ic_baseline_sports_kabaddi_24.xml" value="0.138" />
         <entry key="app/src/main/res/drawable/ic_coins_svgrepo_com.xml" value="0.1645" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1645" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27272751143034357" />
-        <entry key="app/src/main/res/layout/fragment_assessments.xml" value="0.31005732152162585" />
+        <entry key="app/src/main/res/drawable/rectangle.xml" value="0.147" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.32422637939453125" />
+        <entry key="app/src/main/res/layout/create_account.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_assessments.xml" value="0.21650238037109376" />
         <entry key="app/src/main/res/layout/fragment_authentication.xml" value="0.31005732152162585" />
         <entry key="app/src/main/res/layout/fragment_create_assessment.xml" value="0.31005732152162585" />
         <entry key="app/src/main/res/layout/fragment_create_class.xml" value="0.29995574951171877" />
-        <entry key="app/src/main/res/layout/fragment_create_wager.xml" value="0.31005732152162585" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.31005732152162585" />
+        <entry key="app/src/main/res/layout/fragment_create_wager.xml" value="0.30246913580246915" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2200439453125" />
         <entry key="app/src/main/res/layout/fragment_leaderboards.xml" value="0.31005732152162585" />
         <entry key="app/src/main/res/layout/fragment_logout.xml" value="0.31005732152162585" />
         <entry key="app/src/main/res/layout/fragment_my_wagers.xml" value="0.31005732152162585" />
         <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.31005732152162585" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.31005732152162585" />
+        <entry key="app/src/main/res/layout/login_main.xml" value="0.3571075439453125" />
         <entry key="app/src/main/res/layout/nav_header.xml" value="0.4067230224609375" />
         <entry key="app/src/main/res/menu/my_navigation_items.xml" value="0.2989212036132813" />
       </map>

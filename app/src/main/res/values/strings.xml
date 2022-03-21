@@ -2,4 +2,29 @@
     <string name="app_name">drawer_new</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account">Create An Account!</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="course">Course</string>
+    <string name="email">First.Last@example.com</string>
+    <string name="username">Username</string>
+    <string name="select">Select a Course</string>
+    <string name="username_heading">Username:</string>
+    <string name="email_heading">Email Address:</string>
+    <string name="course_heading">Course:</string>
+    <string name="password_heading">Create Password:</string>
+    <string name="confirm_heading">Confirm Password:</string>
+    <string name="signup">Sign Up</string>
+    <string name="account">Already have an account?</string>
+    <string name="signin">Sign in</string>
+    <string name="create_wager">Create a Wager</string>
+    <string name="challenge">Who do you want to challenge?</string>
+    <string name="challenge_class">What class are you challenging in?</string>
+    <string name="challenge_assessment">Which assessment are you challenging in?</string>
+    <string name="coins_wagering">How many coins are you wagering?</string>
+    <string name="create_button">Create Wager</string>
+    <string name="wager_username">Enter Username</string>
+    <string name="wager_classname">Enter Class Code</string>
+    <string name="wager_assessment">Enter Assessment Name</string>
+    <string name="wager_coins">Enter Number of Coins</string>
 </resources>
