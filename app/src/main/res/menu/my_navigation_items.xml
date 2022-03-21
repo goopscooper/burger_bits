@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notifications"/>
+
+    </group>
+
+    <item android:title="Wagers">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_leaderboards"
+                android:icon="@drawable/ic_baseline_show_chart_24"
+                android:title="Leaderboards"/>
+
+            <item
+                android:id="@+id/nav_create_wager"
+                android:icon="@drawable/ic_baseline_add_24"
+                android:title="Create Wager"/>
+
+            <item
+                android:id="@+id/nav_my_wagers"
+                android:icon="@drawable/ic_baseline_sports_kabaddi_24"
+                android:title="My Wagers"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Assessments">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_assessments"
+                android:icon="@drawable/ic_baseline_school_24"
+                android:title="Assessments"/>
+
+            <item
+                android:id="@+id/nav_create_class"
+                android:icon="@drawable/ic_baseline_add_24"
+                android:title="Create a Class"/>
+
+            <item
+                android:id="@+id/nav_create_assessment"
+                android:icon="@drawable/ic_baseline_add_24"
+                android:title="Create Assessment"/>
+
+            <item
+                android:id="@+id/nav_authentication"
+                android:icon="@drawable/ic_baseline_assignment_turned_in_24"
+                android:title="Authentication"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Logout">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="Log out"/>
+            </group>
+        </menu>
+    </item>
+</menu>
